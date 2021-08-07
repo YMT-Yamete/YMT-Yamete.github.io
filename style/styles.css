@@ -27,6 +27,12 @@ a {
   img#avatar {
     display: none;
   }
+  td#avatar {
+  	display: none;
+  }
+  td.td1 {
+  	text-align: center;
+  }
 }
 
 @media (min-width:629px) {
@@ -47,8 +53,8 @@ h2	{
 	border:3px; 
 	border-style:solid; 
 	border-color:#FF0000; 
-	padding: 1em;
-	width: 65%;
+	padding: 2em;
+	text-align: center;
 }
 
 #avatar {
