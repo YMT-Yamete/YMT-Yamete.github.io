@@ -57,6 +57,11 @@ h2	{
 	text-align: center;
 }
 
+#about {
+  padding: 2em;
+  text-align: center;
+}
+
 #avatar {
 	text-align: center;
 }
@@ -128,7 +133,7 @@ h2	{
 
 .columnProj {
   float: left;
-  width: 33.33333%;
+  width: 33.3333%;
   padding: 0 10px;
 }
 
