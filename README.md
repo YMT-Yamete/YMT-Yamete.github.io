@@ -1,1 +1,1 @@
-[Click here to navigate around my bad website](https://ymt-yamete.github.io/Mysite)
+[Click here](https://ymt-yamete.github.io/Mysite) to navigate around my bad website
