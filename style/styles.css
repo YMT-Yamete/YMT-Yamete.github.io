@@ -2,6 +2,11 @@
 	width: 80px;
 	height: 80px;
 }
+
+#body {
+  background-color: white
+}
+
 a {
 	font-size: 120%;
 }
@@ -59,7 +64,10 @@ h2	{
 
 #about {
   padding: 2em;
-  text-align: center;
+}
+
+.aboutTable {
+  width: 60%;
 }
 
 #avatar {
@@ -112,15 +120,15 @@ h2	{
 	height: 100px;
 }
 
-.footer {
+/*.footer {
    width: 100%;
    height: 40px;
    background-color: #343a40;
    color: white;
    text-align: center;
-}
+}*/
 
-.footerEdu {
+.footer {
    position: fixed;
    bottom: 0;
    width: 100%;
@@ -189,5 +197,8 @@ h2	{
   }
   .footerEdu {
     position: static;
+  }
+  .aboutTable {
+    width: 100%;
   }
 }
