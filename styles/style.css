@@ -45,9 +45,20 @@ footer {
     object-fit: cover;
 }
 
-.skills {
-    width: 100px;
+.skillslogo {
+	width: 100px;
+	height: 100px;
 }
+
+.skillsTd	{
+	text-align: center;
+	width: 35%;
+}
+
+.tablecenter {
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 
 @media screen and (max-width: 768px) {
